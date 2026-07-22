@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-xqy7sy.rtb-system.online/sitemap.xml
